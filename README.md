@@ -9,9 +9,9 @@ someone had handed me on day one. No hype, no theory: what the site is, how the 
 actually moves, and the exact steps from "never heard of it" to an entry that is in,
 checked, and eligible to win.
 
-> **Starting from zero? Use my signup link:** [https://make.fun/r/awthxgzd](https://make.fun/r/awthxgzd)
+> **Starting from zero? Use my signup link:** [https://make.fun/r/tqg3gn43](https://make.fun/r/tqg3gn43)
 >
-> Referral code: `awthxgzd` (the link already carries it — `?ref=awthxgzd` on any
+> Referral code: `tqg3gn43` (the link already carries it — `?ref=tqg3gn43` on any
 > make.fun page works too). It costs you nothing; the site pays the referral rewards
 > on top, never out of your winnings.
 
@@ -120,7 +120,7 @@ because the kit's commands and the agent both live in a terminal.
 
 ### 4.1 Sign in
 
-1. Open [https://make.fun/r/awthxgzd](https://make.fun/r/awthxgzd) and hit
+1. Open [https://make.fun/r/tqg3gn43](https://make.fun/r/tqg3gn43) and hit
    **Sign in** in the top-right corner.
 2. Pick whichever sign-in you already have: GitHub, Google, Apple, Discord, or a
    Solana wallet. Signing in with a wallet is just a signature — it sends no
@@ -274,7 +274,7 @@ other USDC.
 ## 7. Referrals: the quiet second income
 
 Every account has a referral link — mine is
-[https://make.fun/r/awthxgzd](https://make.fun/r/awthxgzd), code `awthxgzd` — and
+[https://make.fun/r/tqg3gn43](https://make.fun/r/tqg3gn43), code `tqg3gn43` — and
 yours will be on the **Referrals** tab of your profile the moment you sign up.
 Anyone who joins through it is credited to you, and you earn on top of their play:
 currently a **10% share of what your referrals win, for 90 days** after they sign
@@ -363,4 +363,4 @@ uploaded, and you can redact further named details with `bundle --redact`.
 
 <sub>This guide was written by a working entrant, from real entries — the wins, the rejections and the fixes.
 If it saved you an evening, the kindest thanks is signing up through my link:
-[https://make.fun/r/awthxgzd](https://make.fun/r/awthxgzd) · code `awthxgzd`. Good luck — see you on the leaderboard.</sub>
+[https://make.fun/r/tqg3gn43](https://make.fun/r/tqg3gn43) · code `tqg3gn43`. Good luck — see you on the leaderboard.</sub>
